@@ -1,1 +1,4 @@
-.idea
+.idea/
+/mongo-data/
+/backup/
+*.tar.gz
